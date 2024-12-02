@@ -14,3 +14,6 @@ HTML5, CSS3, jQuery, Slider, Dynamic Navigation Menu, Hover Effects, Focus Effec
 * 웹 퍼포먼스 최적화를 위한 이미지 및 애니메이션 최적화 
 * 동적 요소 삽입 및 애니메이션을 위한 jQuery DOM 조작
 * Cross-Browser Compatibility로 다양한 브라우저에서 일관된 동작을 위한 호환성 고려
+
+## 📑View
+https://harin-kw0w.github.io/wconcept/
